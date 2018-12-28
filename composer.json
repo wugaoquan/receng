@@ -1,0 +1,18 @@
+{
+    "name": "liberty/receng",
+    "description": "receng service api",
+    "authors": [
+        {
+            "name": "liberty",
+            "email": "1993733851@qq.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.2",
+    },
+    "autoload": {
+        "psr-4": {
+            "Liberty\\Receng\\": "src/"
+        }
+    }
+}
