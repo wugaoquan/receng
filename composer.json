@@ -1,9 +1,9 @@
 {
-    "name": "liberty/receng",
+    "name": "wugaoquan/receng",
     "description": "receng service api",
     "authors": [
         {
-            "name": "liberty",
+            "name": "wugaoquan",
             "email": "1993733851@qq.com"
         }
     ],
