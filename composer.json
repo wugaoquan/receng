@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Liberty\\Receng\\": "src/"
+            "Tiger\\Receng\\": "src/"
         }
     }
 }
