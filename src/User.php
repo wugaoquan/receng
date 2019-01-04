@@ -28,7 +28,7 @@ class User
     {
         $query = $this->sign;
 
-        $response = $this->client->request('GET', '/api/users', [
+        $response = $this->client->request('GET', '/tiger-receng-user-http/api/users', [
             'query' => $query,
             'json'  => $params,
         ]);
